@@ -7,7 +7,6 @@
 - ⚡ Fun fact:
 Let's play a game:
 
-
 #include <iostream>
 
 #include <cstdlib>
