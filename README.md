@@ -6,7 +6,7 @@
 - 😄 Pronouns: Nikita, Nikitka, Podkopus, You, Ni'Khit, Saloman
 - ⚡ Fun fact:
 Let's play a game:
-''
+```
 #include <iostream>
 
 #include <cstdlib>
@@ -46,7 +46,7 @@ int main(){
 	return 0;
  
 }
-''
+```
 
 <!---
 SalomandraC/SalomandraC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
