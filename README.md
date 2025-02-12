@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalomandraC
-- 👀 I am interested in solving problems in C++ and JS. I do frontend in my free time.
-- 🌱 I am currently studying C++, JS, CSS, html.
+- 👀 I am interested in solving problems in C++ and JS. I do desctop app in my free time.
+- 🌱 I am currently studying C++, CSS, React, dart, Flutter.
 - 💞️ I’m looking to collaborate. It's not that important while I'm studying. I am ready for any tasks on topics of interest to me.
 - 📫 How to reach me. You can call +89109863281 or send an email kazak.petrushin@yandex.ru
 - 😄 Pronouns: Nikita, Nikitka, Podkopus, You, Ni'Khit, Saloman
@@ -39,7 +39,7 @@ int main(){
   
 	} else {
  
-		std::cout << "You'll be lucky next time";
+		std::cout << "You be lucky, next round?";
   
 	}
  
